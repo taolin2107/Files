@@ -1,6 +1,6 @@
 {
   "version": "1.0.0.2",
-  "is_forced": 0,
+  "is_forced": 1,
   "upgrade_content": "在编写处理字符串的程序或网页时，经常会有查找符合某些复杂规则的字符串的需要。\n正则表达式就是用于描述这些规则的工具。换句话说\n，正则表达式就是记录文本规则的代码。在编写处理字符串的程序或网页时，经常会有查找符合某些复杂规则的字符串的需要。\n正则表达式就是用于描述这些规则的工具。换句话说，正则表达式就是记录文本规则的代码。",
   "android_url": "https://drive.cvte.com/p/DVtfkzsQwI4DGM-bDw",
   "ios_url": "http://fir-im.seewo.com/b9fh"
