@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0.0",
+  "version": "1.0.0.1",
   "is_forced": 0,
-  "upgrade_content": "I have avoided the  by not pushing a branch anymore.The git reset head did not work for my case.",
-  "android_url": "https://drive.cvte.com/p/DVtfkzsQwI4DGM-bDw",
+  "upgrade_content": "功能优化。",
+  "android_url": "http://fir-im.seewo.com/3wxk",
   "ios_url": "http://fir-im.seewo.com/b9fh"
 }
